@@ -5,9 +5,9 @@
   <p>Plugins, client features, and database-backed tools.</p>
 
   <p>
-    <a href="https://javareed.pages.dev/"><img src="assets/portfolio-button.svg" width="128" height="44" alt="Portfolio: javareed.pages.dev" /></a>
+    <a href="https://javareed.pages.dev/"><img src="https://raw.githubusercontent.com/javareed/javareed/0aae13dc6a9ad32159fd9328d2b714a7b536155a/assets/portfolio-button.svg" width="128" height="44" alt="Portfolio: javareed.pages.dev" /></a>
     &nbsp;
-    <a href="https://discord.com/users/1428675134029430786"><img src="assets/discord-button.svg" width="128" height="44" alt="Discord: reed.jar" /></a>
+    <a href="https://discord.com/users/1428675134029430786"><img src="https://raw.githubusercontent.com/javareed/javareed/0aae13dc6a9ad32159fd9328d2b714a7b536155a/assets/discord-button.svg" width="128" height="44" alt="Discord: reed.jar" /></a>
   </p>
 </div>
 
