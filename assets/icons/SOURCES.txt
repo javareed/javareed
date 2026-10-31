@@ -1,0 +1,6 @@
+Java, Python, MySQL, SQLite, HTML, CSS, Docker and Git SVGs: Devicon
+https://github.com/devicons/devicon
+License: LICENSE.devicon (MIT). Marks belong to their respective owners.
+SQL uses a locally drawn database symbol because SQL has no single vendor logo.
+
+Java, SQL and MySQL colors adapt to light and dark themes.

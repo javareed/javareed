@@ -1,50 +1,34 @@
+# Reed
 
-<div align="center">
+**Java developer · Minecraft servers and clients**
 
-  <a href="https://javareed.pages.dev/">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=100&amp;text=Reed&amp;fontSize=70&amp;fontColor=F2A56B&amp;fontAlignY=51&amp;animation=fadeIn" width="320" alt="Reed" />
-  </a>
+I write Java plugins and build custom systems for Minecraft servers.<br>I also work on Minecraft clients and database-backed tools.
 
-  <p><strong>Java developer · Minecraft server software</strong></p>
-  <p>Plugins, backend utilities, and database-backed projects.</p>
+[Portfolio](https://javareed.pages.dev/) · [Discord · reed.jar](https://discord.com/users/1428675134029430786)
 
-  <p>
-    <a href="https://javareed.pages.dev/">
-      <img src="https://img.shields.io/badge/Portfolio-javareed.pages.dev-2D241F?style=flat-square&amp;logo=cloudflarepages&amp;logoColor=F2A56B&amp;labelColor=1B1715" height="24" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/1428675134029430786">
-      <img src="https://img.shields.io/badge/Discord-reed.jar-2D241F?style=flat-square&amp;logo=discord&amp;logoColor=F2A56B&amp;labelColor=1B1715" height="24" alt="Discord: reed.jar" />
-    </a>
-  </p>
+## Languages & tools
 
-</div>
-
----
-
-### Tech stack
-
-<sub><strong>LANGUAGES</strong></sub>
 <p>
-  <img src="https://img.shields.io/badge/Java-26201C?style=for-the-badge&amp;logo=openjdk&amp;logoColor=F2A56B" height="31" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-26201C?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjJBNTZCIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgNXY3YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWNU00IDEydjdjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM3YtNyIvPjwvZz48L3N2Zz4%3D&amp;logoColor=F2A56B" height="31" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-26201C?style=for-the-badge&amp;logo=python&amp;logoColor=F2A56B" height="31" alt="Python" />
+  <strong>Languages</strong><br>
+  <img src="assets/icons/java.svg" width="24" height="24" alt="Java" align="middle" />&nbsp;Java &emsp;
+  <img src="assets/icons/sql.svg" width="24" height="24" alt="SQL" align="middle" />&nbsp;SQL &emsp;
+  <img src="assets/icons/python.svg" width="24" height="24" alt="Python" align="middle" />&nbsp;Python
 </p>
 
-<sub><strong>DATABASES</strong></sub>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-26201C?style=for-the-badge&amp;logo=mysql&amp;logoColor=F2A56B" height="31" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-26201C?style=for-the-badge&amp;logo=sqlite&amp;logoColor=F2A56B" height="31" alt="SQLite" />
+  <strong>Databases</strong><br>
+  <img src="assets/icons/mysql.svg" width="24" height="24" alt="MySQL" align="middle" />&nbsp;MySQL &emsp;
+  <img src="assets/icons/sqlite.svg" width="24" height="24" alt="SQLite" align="middle" />&nbsp;SQLite
 </p>
 
-<sub><strong>WEB DEVELOPMENT</strong></sub>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-26201C?style=for-the-badge&amp;logo=html5&amp;logoColor=F2A56B" height="31" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-26201C?style=for-the-badge&amp;logo=css&amp;logoColor=F2A56B" height="31" alt="CSS3" />
+  <strong>Web</strong><br>
+  <img src="assets/icons/html.svg" width="24" height="24" alt="HTML" align="middle" />&nbsp;HTML &emsp;
+  <img src="assets/icons/css.svg" width="24" height="24" alt="CSS" align="middle" />&nbsp;CSS
 </p>
 
-<sub><strong>TOOLS</strong></sub>
 <p>
-  <img src="https://img.shields.io/badge/Docker-26201C?style=for-the-badge&amp;logo=docker&amp;logoColor=F2A56B" height="31" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-26201C?style=for-the-badge&amp;logo=git&amp;logoColor=F2A56B" height="31" alt="Git" />
+  <strong>Tools</strong><br>
+  <img src="assets/icons/docker.svg" width="24" height="24" alt="Docker" align="middle" />&nbsp;Docker &emsp;
+  <img src="assets/icons/git.svg" width="24" height="24" alt="Git" align="middle" />&nbsp;Git
 </p>
