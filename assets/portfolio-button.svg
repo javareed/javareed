@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="44" viewBox="0 0 144 44" role="img" aria-labelledby="title">
+  <title id="title">Portfolio</title>
+  <style>
+    .surface { fill: #f7f1e9; stroke: #d8c8b8; }
+    .mark { stroke: #93653e; }
+    text { fill: #4b3b2d; }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #241f1a; stroke: #524032; }
+      .mark { stroke: #e5b389; }
+      text { fill: #f2d7bd; }
+    }
+  </style>
+  <rect class="surface" x="0.5" y="0.5" width="143" height="43" rx="8" />
+  <g class="mark" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="38" cy="22" r="8" />
+    <path d="M30 22h16m-8-8c5 4 5 12 0 16m0-16c-5 4-5 12 0 16" />
+  </g>
+  <text x="56" y="27" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Portfolio</text>
+</svg>

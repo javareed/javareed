@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="44" viewBox="0 0 128 44" role="img" aria-labelledby="title">
+  <title id="title">Discord</title>
+  <style>
+    .surface { fill: #fff; stroke: #d2d8df; }
+    .mark { stroke: #6b6057; }
+    text { fill: #24292f; }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #161b22; stroke: #39414b; }
+      .mark { stroke: #c7b6a6; }
+      text { fill: #e6edf3; }
+    }
+  </style>
+  <rect class="surface" x="0.5" y="0.5" width="127" height="43" rx="8" />
+  <path class="mark" d="M28 14h10a4 4 0 0 1 4 4v6a4 4 0 0 1-4 4h-7l-6 4v-5a4 4 0 0 1-1-3v-6a4 4 0 0 1 4-4Z" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="52" y="27" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Discord</text>
+</svg>
