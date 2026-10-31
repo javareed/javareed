@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="104" viewBox="0 0 360 104" role="img" aria-labelledby="title">
+  <title id="title">Reed · javareed</title>
+  <style>
+    .name { fill: #252a30; }
+    .accent { fill: #a7792c; }
+    .handle { fill: #59636e; }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #ededef; }
+      .accent { fill: #d8b66a; }
+      .handle { fill: #a1a1aa; }
+    }
+  </style>
+  <text class="name" x="0" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="80" font-weight="650" letter-spacing="-4">Reed</text>
+  <circle class="accent" cx="187" cy="72" r="5" />
+  <text class="handle" x="222" y="77" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">javareed</text>
+</svg>
