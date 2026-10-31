@@ -4,3 +4,4 @@ License: LICENSE.devicon (MIT). Marks belong to their respective owners.
 SQL uses a locally drawn database symbol because SQL has no single vendor logo.
 
 Java, SQL and MySQL colors adapt to light and dark themes.
+stack.svg combines the original technology marks with outlined Geist labels to preserve alignment. Geist notice: ../LICENSE.geist.
